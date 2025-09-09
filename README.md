@@ -9,7 +9,7 @@
      Industriestr. 15<br>
      18069 Rostock<br>
      Deutschland<br>
-     Telefonnummer: +49 163 3375676
+     Telefonnummer: +49 163 3375676<br>
      E-Mail: yunaraaax@web.de<br>
   </p>
 </body>
